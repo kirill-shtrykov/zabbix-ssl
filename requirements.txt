@@ -1,0 +1,4 @@
+click
+dnspython
+pynginxconfig
+pyopenssl
